@@ -1,6 +1,0 @@
-userId,email,password
-1,admin@monash.edu,Monash1234
-2,patient@monash.edu,Monash1234
-3,patient1@monash.edu,Monash1111
-4,patient2@monash.edu,Monash2222
-5,patient3@monash.edu,Monash3333
