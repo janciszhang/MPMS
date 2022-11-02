@@ -1,6 +1,0 @@
-BranchId,BranchName,Phone,OpeningHours,Street,Suburb,State,Postcode
-1,Monash Clinic Emily,93546001,8:00~18:00,60 Hale Road,Clayton,VIC,3215
-2,Monash Clinic Cast,99034788,8:00~18:00,156 Norah Street,Melbourne,VIC,3156
-3,Monash Clinic Bright,91666274,8:00~18:00,300 Rock Road,South Yarra,VIC,3256
-4,Monash Clinic Albums,91460500,8:00~18:00,960 Center Park Street,CBD,VIC,3000
-5,Monash Clinic David,95146221,8:00~18:00,888 West Lake,CBD,VIC,3000
