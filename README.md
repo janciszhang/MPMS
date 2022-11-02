@@ -1,5 +1,7 @@
 # MPMS
-MPMS Text-base Software Engineering
+Monash Patient Management System (MPMS) 
+
+Text-base Application Software Engineering
 
 ## Installation Guidelines
 - The IDE for our product is: Intellij
