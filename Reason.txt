@@ -1,4 +1,0 @@
-reasonId,type,duration
-1,Standard consultation,5
-2,Telehealth,10
-3,Long consultation,15
